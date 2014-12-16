@@ -1,0 +1,36 @@
+{
+  "name": "ng-jakkel",
+  "version": "0.0.1",
+  "homepage": "https://github.com/softbrewery/ng-jakkel",
+  "authors": [
+    {
+      "name": "Steven Ceuppens",
+      "email": "steven.ceuppens@softbrewery.com",
+      "homepage": "http://softbrewery.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Brian Baker",
+      "email": "brian_e_baker@yahoo.com"
+    }
+  ],
+  "description": "Angular Jakkel Implementation",
+  "main": "dist/ng-jakkel.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "acl",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ],
+  "dependencies": {
+    "js-jakkel": "~0.0.2",
+    "angular": "~1.3.7"
+  }
+}
