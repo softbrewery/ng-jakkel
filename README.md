@@ -5,7 +5,7 @@
 NG-Jakkel - Angular Jakkel Implementation
 ======================================
 
-NG-Jakkel is a Angular Jakkel Implementation
+NG-Jakkel is a Angular Jakkel (ACL) Implementation
 
 ### Installation
 ---
