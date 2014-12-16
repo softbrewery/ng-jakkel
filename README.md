@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/softbrewery/ng-jakkel.svg)](https://travis-ci.org/softbrewery/ng-jakkel)
-[![Bower Version](http://img.shields.io/bower/v/ng-jakkel.svg)](https://www.npmjs.org/package/ng-jakkel)
-[![NPM Version](http://img.shields.io/npm/v/ng-jakkel.svg)](https://www.npmjs.org/package/ng-jakkel)
+[![Bower Version](http://img.shields.io/bower/v/ng-jakkel.svg)](https://github.com/softbrewery/ng-jakkel)
 
 NG-Jakkel - Angular Jakkel Implementation
 ======================================
